@@ -338,7 +338,7 @@ p { margin: 0 0 1.1em; }
 /* CTA band (shared) */
 .cta-band { background: var(--moss-deep); color: var(--paper); padding: clamp(56px, 7vw, 96px) 0; }
 .cta-band .wrap { display: flex; justify-content: space-between; align-items: center; gap: 32px; flex-wrap: wrap; }
-.cta-band h2 { color: var(--paper); margin: 0; max-width: 20ch; }
+.cta-band h2 { color: var(--paper); margin: 0; max-width: 28ch; }
 .cta-band h2 em { color: var(--sage); }
 .cta-band p { color: var(--sage-pale); margin: 12px 0 0; font-family: var(--sans); font-size: 0.98rem; }
 .cta-band .actions { display: flex; flex-wrap: wrap; gap: 14px; }
@@ -487,3 +487,5 @@ p { margin: 0 0 1.1em; }
   .js .reveal { opacity: 0; transform: translateY(14px); transition: opacity 0.8s ease, transform 0.8s ease; }
   .reveal.is-in { opacity: 1; transform: none; }
 }
+
+.nowrap { white-space: nowrap; }
