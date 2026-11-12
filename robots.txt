@@ -1,0 +1,5 @@
+# Be Well Counseling Services: search engines and AI assistants are welcome.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.bewellcounseling.llc/sitemap.xml
