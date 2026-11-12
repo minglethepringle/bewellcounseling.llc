@@ -51,7 +51,7 @@ if (form) {
       status.textContent = "Thank you. Your message was sent, and I’ll be in touch within 24 hours.";
     } catch {
       status.className = "form-status is-error";
-      status.textContent = "Something went wrong. Please call 781-771-0687 or email nancy@bewellcounseling.llc.";
+      status.textContent = "Something went wrong. Please email nancy@bewellcounseling.llc or call 781-771-0687.";
     } finally {
       button.disabled = false;
     }
