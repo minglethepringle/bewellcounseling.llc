@@ -360,7 +360,7 @@ p { margin: 0 0 1.1em; }
 .about-top figcaption span { font-family: var(--sans); font-size: 1rem; color: var(--ink-soft); }
 .about-top h1 { font-size: clamp(2.3rem, 4.4vw, 3.8rem); margin: 12px 0 32px; }
 .about-top .body p { color: var(--ink-soft); }
-.about-top .body p:first-of-type { color: var(--moss); font-style: italic; font-size: clamp(1.4rem, 2vw, 1.7rem); line-height: 1.35; }
+.about-top .body .about-lead { color: var(--moss); font-style: italic; font-size: clamp(1.4rem, 2vw, 1.7rem); line-height: 1.35; }
 
 @media (max-width: 860px) { .about-top .wrap { grid-template-columns: 1fr; } .about-top figure { position: static; max-width: 440px; } }
 
