@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.bewellcounseling.llc/sitemap.xml
+Sitemap: https://bewellcounseling.llc/sitemap.xml

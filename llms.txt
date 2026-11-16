@@ -21,13 +21,13 @@ Nancy works with people who want to better understand themselves, navigate life'
 
 ## Pages
 
-- [Home](https://www.bewellcounseling.llc/): overview of the practice and first steps
-- [About Nancy](https://www.bewellcounseling.llc/about.html): background, approach, education, licenses and modes of treatment
-- [Therapy for adults](https://www.bewellcounseling.llc/adults.html): anxiety, stress, relationships and life's turning points
-- [Therapy for young adults (17+)](https://www.bewellcounseling.llc/young-adults.html): pressure, uncertainty, independence and finding your footing
-- [EMDR therapy](https://www.bewellcounseling.llc/emdr.html): how EMDR helps process past experiences that still affect you
-- [FAQs](https://www.bewellcounseling.llc/faqs.html): getting started, sessions, fees, insurance and policies
-- [Contact](https://www.bewellcounseling.llc/contact.html): phone, email and a form to request a free consult
+- [Home](https://bewellcounseling.llc/): overview of the practice and first steps
+- [About Nancy](https://bewellcounseling.llc/about.html): background, approach, education, licenses and modes of treatment
+- [Therapy for adults](https://bewellcounseling.llc/adults.html): anxiety, stress, relationships and life's turning points
+- [Therapy for young adults (17+)](https://bewellcounseling.llc/young-adults.html): pressure, uncertainty, independence and finding your footing
+- [EMDR therapy](https://bewellcounseling.llc/emdr.html): how EMDR helps process past experiences that still affect you
+- [FAQs](https://bewellcounseling.llc/faqs.html): getting started, sessions, fees, insurance and policies
+- [Contact](https://bewellcounseling.llc/contact.html): phone, email and a form to request a free consult
 
 ## Note
 
