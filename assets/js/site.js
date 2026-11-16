@@ -2,10 +2,19 @@
 const toggle = document.querySelector(".menu-toggle");
 const nav = document.getElementById("site-nav");
 if (toggle && nav) {
-  toggle.addEventListener("click", () => {
-    const open = nav.classList.toggle("is-open");
+  const setOpen = (open) => {
+    nav.classList.toggle("is-open", open);
+    document.body.classList.toggle("menu-open", open);
     toggle.setAttribute("aria-expanded", String(open));
-    toggle.querySelector("span").textContent = open ? "Close" : "Menu";
+    toggle.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+  };
+  toggle.addEventListener("click", () => setOpen(!nav.classList.contains("is-open")));
+  // Tap the dimmed page or press Escape to close
+  document.addEventListener("click", (event) => {
+    if (nav.classList.contains("is-open") && !nav.contains(event.target) && !toggle.contains(event.target)) setOpen(false);
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && nav.classList.contains("is-open")) { setOpen(false); toggle.focus(); }
   });
 }
 
