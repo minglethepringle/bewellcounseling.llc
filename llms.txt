@@ -1,11 +1,12 @@
 # Be Well Counseling Services
 
-> Online therapy and EMDR with Nancy Funkhouser, MSW, LICSW, MBA, an EMDRIA Certified Therapist. Serving adults and young adults (17+) located in Massachusetts, Illinois and North Carolina. Based in Wayland, Massachusetts; all sessions are online.
+> Online EMDR therapy and counseling with Nancy Funkhouser, MSW, LICSW, MBA, an EMDRIA Certified EMDR Therapist. Serving adults and young adults (17+) located in Massachusetts, Illinois and North Carolina. Based in Wayland, Massachusetts; all sessions are online.
 
 Nancy works with people who want to better understand themselves, navigate life's challenges, and create meaningful change: feeling stuck, facing a transition, working through difficult experiences, or wanting life to feel different. Her approach is active and collaborative ("an active participant, not a silent note-taker"), drawing on EMDR, Cognitive Behavioral Therapy, Solution-Focused Therapy, strengths-based work and Positive Psychology.
 
 ## Key facts
 
+- Primary specialty: EMDR (Eye Movement Desensitization and Reprocessing), offered online
 - Clinician: Nancy Funkhouser, MSW, LICSW, MBA (Licensed Independent Clinical Social Worker; EMDRIA Certified Therapist; member, National Association of Social Workers)
 - Licensed in: Massachusetts, Illinois, North Carolina (clients must be located in one of these states during sessions)
 - Ages: 17 and up (young adults and adults)
@@ -24,9 +25,9 @@ Nancy works with people who want to better understand themselves, navigate life'
 
 - [Home](https://bewellcounseling.llc/): overview of the practice and first steps
 - [About Nancy](https://bewellcounseling.llc/about): background, approach, education, licenses and modes of treatment
+- [EMDR therapy](https://bewellcounseling.llc/emdr): how EMDR helps process past experiences that still affect you
 - [Therapy for adults](https://bewellcounseling.llc/adults): anxiety, stress, relationships and life's turning points
 - [Therapy for young adults (17+)](https://bewellcounseling.llc/young-adults): pressure, uncertainty, independence and finding your footing
-- [EMDR therapy](https://bewellcounseling.llc/emdr): how EMDR helps process past experiences that still affect you
 - [FAQs](https://bewellcounseling.llc/faq): getting started, sessions, fees, insurance and policies
 - [Contact](https://bewellcounseling.llc/contact): phone, email and a form to request a free consult
 
